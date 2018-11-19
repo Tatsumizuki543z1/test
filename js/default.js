@@ -91,9 +91,3 @@ for(idx in thmubs){
 	}
 }
 
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-He
